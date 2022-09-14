@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qM584r6CV+q0J56uu7f2XQfRacZefIoUraLBXDCxl0uq6vWLtOD+f1I9jEHp71lKSFXhHu48o3Oz+BmscxuqZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atren\\OneDrive - Aarhus Universitet\\6. semester\\SWtest\\calculatorexc1\\calculatorexc1.classes\\calculatorexc1.classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atren\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\atren\\.nuget\\packages\\nunitxml.testlogger\\3.0.117\\nunitxml.testlogger.3.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}

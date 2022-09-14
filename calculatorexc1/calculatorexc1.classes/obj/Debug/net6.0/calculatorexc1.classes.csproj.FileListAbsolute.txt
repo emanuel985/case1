@@ -1,0 +1,12 @@
+C:\Users\atren\OneDrive - Aarhus Universitet\6. semester\softwaretest\calculatorexc1\calculatorexc1.classes\bin\Debug\net6.0\calculatorexc1.classes.deps.json
+C:\Users\atren\OneDrive - Aarhus Universitet\6. semester\softwaretest\calculatorexc1\calculatorexc1.classes\bin\Debug\net6.0\calculatorexc1.classes.dll
+C:\Users\atren\OneDrive - Aarhus Universitet\6. semester\softwaretest\calculatorexc1\calculatorexc1.classes\bin\Debug\net6.0\calculatorexc1.classes.pdb
+C:\Users\atren\OneDrive - Aarhus Universitet\6. semester\softwaretest\calculatorexc1\calculatorexc1.classes\obj\Debug\net6.0\calculatorexc1.classes.csproj.AssemblyReference.cache
+C:\Users\atren\OneDrive - Aarhus Universitet\6. semester\softwaretest\calculatorexc1\calculatorexc1.classes\obj\Debug\net6.0\calculatorexc1.classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atren\OneDrive - Aarhus Universitet\6. semester\softwaretest\calculatorexc1\calculatorexc1.classes\obj\Debug\net6.0\calculatorexc1.classes.AssemblyInfoInputs.cache
+C:\Users\atren\OneDrive - Aarhus Universitet\6. semester\softwaretest\calculatorexc1\calculatorexc1.classes\obj\Debug\net6.0\calculatorexc1.classes.AssemblyInfo.cs
+C:\Users\atren\OneDrive - Aarhus Universitet\6. semester\softwaretest\calculatorexc1\calculatorexc1.classes\obj\Debug\net6.0\calculatorexc1.classes.csproj.CoreCompileInputs.cache
+C:\Users\atren\OneDrive - Aarhus Universitet\6. semester\softwaretest\calculatorexc1\calculatorexc1.classes\obj\Debug\net6.0\calculatorexc1.classes.dll
+C:\Users\atren\OneDrive - Aarhus Universitet\6. semester\softwaretest\calculatorexc1\calculatorexc1.classes\obj\Debug\net6.0\refint\calculatorexc1.classes.dll
+C:\Users\atren\OneDrive - Aarhus Universitet\6. semester\softwaretest\calculatorexc1\calculatorexc1.classes\obj\Debug\net6.0\calculatorexc1.classes.pdb
+C:\Users\atren\OneDrive - Aarhus Universitet\6. semester\softwaretest\calculatorexc1\calculatorexc1.classes\obj\Debug\net6.0\ref\calculatorexc1.classes.dll
